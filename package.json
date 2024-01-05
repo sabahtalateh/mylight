@@ -1,7 +1,7 @@
 {
   "name": "mylight",
-  "displayName": "My Light Color Scheme",
-  "description": "My Light Color Scheme",
+  "displayName": "Extra Light",
+  "description": "Put on your sunglasses",
   "version": "1.0.4",
   "repository": "https://github.com/sabahtalateh/mylight.git",
   "publisher": "sabaken",
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "My Light Color Scheme",
+        "label": "Extra Light",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
       }
