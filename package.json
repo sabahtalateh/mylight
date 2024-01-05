@@ -1,0 +1,23 @@
+{
+  "name": "mylight",
+  "displayName": "My Light Color Scheme",
+  "description": "My Light Color Scheme",
+  "version": "1.0.0",
+  "repository": "https://github.com/sabahtalateh/mylight.git",
+  "publisher": "sabaken",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "My Light Color Scheme",
+        "uiTheme": "vs",
+        "path": "./themes/theme.json"
+      }
+    ]
+  }
+}
