@@ -152,6 +152,7 @@
     "namespace": "#795400",
     "variable.readonly:go": "#870f94",
     "variable.defaultLibrary:go": "#0033b3",
+    "function.defaultLibrary": "#0033b3"
 	},
   "tokenColors": [
     {
@@ -220,7 +221,6 @@
     		"storage",
 			  "keyword.operator.new",
 			  "storage.type.error.go",
-			  "support.function.builtin.go",
     	],
     	"settings": {
     		"foreground": "#0033b3"
