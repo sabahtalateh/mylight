@@ -150,9 +150,10 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": "#795400",
+    "type.defaultLibrary:go": "#0033b3",
+    "function.defaultLibrary": "#0033b3",
     "variable.readonly:go": "#7a3e9d",
     "variable.defaultLibrary:go": "#0033b3",
-    "function.defaultLibrary": "#0033b3"
   },
   "tokenColors": [
     {
