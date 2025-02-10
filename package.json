@@ -2,7 +2,7 @@
   "name": "mylight",
   "displayName": "Extra Light",
   "description": "Put on your sunglasses",
-  "version": "1.0.8",
+  "version": "2.0.0",
   "repository": "https://github.com/sabahtalateh/mylight.git",
   "publisher": "sabaken",
   "engines": {
